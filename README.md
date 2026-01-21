@@ -1,4 +1,5 @@
 # Treinamento-de-Redes-Neurais-com-Transfer-Learning
+# Desafio Projeto Final Transfer Learning DIO
 
 ## Descrição:
 Esse projeto para a plataforma DIO aplica **Transfer Learning** utilizando **ResNet50**, pré-treinada no dataset ImageNet, para classificação de imagens de gatos e cachorros.
